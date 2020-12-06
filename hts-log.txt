@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 06 Dec 2020 10:21:20 at https://botsbase.net/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "tr, en, *" https://botsbase.net/ -O1 "C:\Benim Web Sitem\botlistsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:21:51	Warning: 	Retry after error -4 (No data (connection closed)) at link https://botsbase.net/assets/css/main.css (from https://botsbase.net/)
+10:22:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://botsbase.net/bot/742549519899557958 (from https://botsbase.net/)
+10:22:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://botsbase.net/bot/768534891154374768 (from https://botsbase.net/)
+10:23:49	Warning: 	Retry after error 500 (Internal Server Error) at link https://botsbase.net/user/ (from https://botsbase.net/bot/615821639740817409)
+10:24:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://botsbase.net/user/711219123060736030 (from https://botsbase.net/bot/750834830882766910)
+10:24:41	Warning: 	Retry after error 500 (Internal Server Error) at link https://botsbase.net/user/ (from https://botsbase.net/bot/615821639740817409)
+10:25:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://botsbase.net/tag/Turhish?page=3 (from https://botsbase.net/tag/Turhish?page=2)
+10:25:45	Error: 	"Internal Server Error" (500) after 2 retries at link https://botsbase.net/user/ (from https://botsbase.net/bot/615821639740817409)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 36 seconds : 728 links scanned, 718 files written (61889107 bytes overall) [56677380 bytes received at 143124 bytes/sec], 10011076 bytes transferred using HTTP compression in 457 files, ratio 19%, 15.2 requests per connection
+(1 errors, 7 warnings, 0 messages)

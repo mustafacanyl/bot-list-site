@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+botsbase.net	TRUE	/	FALSE	1999999999	PHPSESSID	7c4b73855f0c603304df1f6b095ae28c
+cdn.discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hdqwalls.com	TRUE	/	FALSE	1999999999	__cfduid	d9533f956dcbcfdbf289935177f6ec46e1607242982
+images.hdqwalls.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hizliresim.com	TRUE	/	FALSE	1999999999	__cfduid	da0199b0a3699d9dec3c3ab821e8c66f61607243050
+i.hizliresim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.fluxpoint.dev	TRUE	/	FALSE	1999999999	__cfduid	dd2a016efffd1646ab9aa86cf1ad9feff1607243090
+img.fluxpoint.dev	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	dae652135c48480707c186fe401e75e0a1607243124
+discordapp.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.discordapp.net	TRUE	/	FALSE	1999999999	__cfduid	ddae7d0334ce101285a4720a685fa7e151607243158
+media.discordapp.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
